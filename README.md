@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BruhPuro or BruhCat
+- 👀 I’m interested in game development and coding
+- 🌱 I’m currently learning html
+- 💞️ I’m looking to collaborate on games
